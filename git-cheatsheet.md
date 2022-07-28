@@ -24,7 +24,7 @@
 - git diff (Differenzen)
 - git fetch (aktueller Vergleich lokal und Remote)
 - git merge <Filename> (merged die Datei direkt im Main)
-- git branch (Listet die branches)
+- git branch -a (Listet die branches)
 - git branch <branchname> (erstellt neuen branch)
 - git switch <branchname> (branch wechsel)
 - git switch -c <branchname> (branch erstellen und wechseln)
